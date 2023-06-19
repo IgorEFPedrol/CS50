@@ -14,7 +14,7 @@ int main(void)
         hours[i] = get_int("Week %i HW Hours: ", i);
     }
 
-    char output; 
+    char output;
     do
     {
         output = toupper(get_char("Enter T for total hours, A for average hours per week: "));
