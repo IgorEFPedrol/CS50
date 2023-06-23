@@ -60,7 +60,7 @@ int compute_score(string word)
                 score += letter;
             }
         }
-    }
+    } 
     //returning the score
     return score;
 }
