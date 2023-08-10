@@ -3,7 +3,7 @@
 
 #include <cs50.h>
 #include <stdio.h>
- 
+
 float half(float bill, float tax, int tip);
 
 int main(void) 
