@@ -17,7 +17,7 @@ int main(void)
 
 float half(float bill, float tax, int tip)
 {
-    //Initializing the total variable that will keep the total amount to be payed 
+    //Initializing the total variable that keeps the total amount to be payed 
     float total = 0;
     //Calculating the bill with taxes
     total = bill + bill * (tax / 100.0);
