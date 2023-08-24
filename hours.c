@@ -1,5 +1,5 @@
 #include <cs50.h>
-#include <ctype.h>
+#include <ctype.h> 
 #include <stdio.h>
 
 float calc_hours(int hours[], int weeks, char output);
